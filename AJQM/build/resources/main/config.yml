@@ -1,0 +1,4 @@
+Config:
+  Prefix: "&6&lAJQM &8→ "
+  onLogin: "&6%player% &ahas joined the game."
+  onQuit: "&6%player% &chas left the game"
